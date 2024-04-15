@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+}
+
+.left{
+    margin-left: 30px;
+    display: flex;
+    padding: 10px;
+    
+} 
+.contactnumber{
+    display: flex;
+    color: black;
+    
+}
+.info-header{
+    padding-top: 10px;
+}
+.container{
+    display: flex;
+}
+
+    
+.ls-topheader{
+    height: 50px;
+    background-color: rgb(190, 44, 44);
+ 
+}
+
+.text{
+    text-align: center;
+    padding-top: 10px; 
+}
+h6{
+    padding-left: 10px;
+}
+.header-top{
+    height: 60px;
+    width: 1500px;
+    background-color:rgb(190, 44, 44);
+    color:-moz-only-whitespace;
+    
+}
+.main_header{
+    height: 40px;
+    width: 1000px;
+    color: black;
+    font: 16px montserrat,sans_serif;
+    display:flex;
+}
+.logo{
+    height: 32.21px;
+    width: 188px;
+    padding-top: 5px;
+}
+
+
+.search{
+    /* background-color: pink; */
+
+    padding-top: 10PX;
+    padding-left: 20%;
+    display: flex;
+    border-radius: 5px;
+
+}
+.search_icon{
+    padding-left: 3px;
+    padding-top: 5px;
+}  
+.search_bar{
+    border-radius: 10PX;
+    /* width: 50%; */
+}
+
+.ls-topheader{
+    margin-top: 10px;
+    color: black;
+    
+}
+.search_cart{
+    padding-left: 300px;
+    padding-top: 5px;
+}
+.search_user{
+
+    width: 300px;
+    /* background-color: aliceblue;*/
+    padding-left: 10px; 
+    padding-top: 15px;
+    display: flex;
+}
+/* style for button */
+.button{
+    height: 56px;
+    width: 1000px;
+    padding-left: 10px;
+    padding-top: 30px;
+    
+}
+/* sliding images */
+.carouselslide{
+    height: 238;
+    width: 1300px;
+    padding-top: 10px;
+}
+/* image base button */
+.thumnail{
+    background-color: aliceblue;
+    height: 90px;
+    width: 90px;
+    display: flex;
+    gap: 60px;
+}
+/* style of card */
+.card_top{
+    height: 100px;
+    width: 100px;
+    padding-top: 200px;
+}
+.bottom{
+    height: 400px;
+    width: 1400px;
+    background-color: #303030;
+    margin-top: 800px;
+    color: white;
+    padding-left: 50px;
+    display: flex;
+    padding-top: 10px;
+}
+.red_bottom{
+    background-color: rgb(190, 44, 44);
+    height: 100px;
+    width: 1300px;
+    color: aliceblue;
+    text-align: center;
+
+}
